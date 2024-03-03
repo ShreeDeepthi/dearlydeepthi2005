@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shreedeepthi
+- 👋 Hi, I’m @ShreeDeepthi
 - 👀 I’m interested in ...Writing, Photography, Coding
 - 🌱 I’m currently learning ... JAVA
 - 💞️ I’m looking to collaborate on ... Programming Hackathons
