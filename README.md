@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @ShreeDeepthi
-- 👀 I’m interested in ...Writing, Photography, Coding
-- 🌱 I’m currently learning ... JAVA
-- 💞️ I’m looking to collaborate on ... Programming Hackathons
-- 📫 How to reach me ... shreedeepthi2005@gmail.com
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...Always up for philosophical adventures.
-
-<!---
-dearlydeepthi2005/dearlydeepthi2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://img.shields.io/badge/Python-blue
+https://img.shields.io/badge/Java-green
+https://img.shields.io/badge/Web%20Development-yellow
+https://img.shields.io/badge/HTML-purple
+https://img.shields.io/badge/CSS-orange
+https://img.shields.io/badge/JavaScript-red
+https://img.shields.io/badge/C%2B%2B-black
+https://img.shields.io/badge/C-white
+https://img.shields.io/badge/Freelance%20Writing-turquoise
+https://img.shields.io/badge/SQL-pink
+https://img.shields.io/badge/DP%20900%20-darkblue
+https://img.shields.io/badge/Digital%20Marketing-magenta
+https://img.shields.io/badge/Wordpress-orange
+https://img.shields.io/badge/Artificial%20Intelligence-brown
+https://img.shields.io/badge/Data%20Science-gray
+https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-violet
