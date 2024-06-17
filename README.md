@@ -32,8 +32,8 @@ Additionally, my dedication to mastery is reflected in my attainment of the Hack
 
 Skills and Expertise:
 
-My skill set encompasses a diverse array of programming languages, including Java, C, and Python. These languages serve as the foundation upon which I build innovative solutions and bring ideas to life. Whether it's crafting elegant algorithms, designing intuitive user interfaces, or delving into the intricacies of data science, I approach each endeavor with enthusiasm and precision.
-My passion for front-end development shines through in my proficiency with HTML and CSS. From crafting pixel-perfect layouts to implementing dynamic user interactions, I take pride in creating web experiences that are not only visually appealing but also intuitive and user-friendly.
+My skill set encompasses a diverse array of programming languages, including Java, C++, and Python. These languages serve as the foundation upon which I build innovative solutions and bring ideas to life. Whether it's crafting elegant algorithms, designing intuitive user interfaces, or delving into the intricacies of data science, I approach each endeavor with enthusiasm and precision.
+My passion for front-end development and UI designing shines through in my proficiency with HTML and CSS. From crafting pixel-perfect layouts to implementing dynamic user interactions, I take pride in creating web experiences that are not only visually appealing but also intuitive and user-friendly.
 Moreover, my fascination with artificial intelligence, machine learning, and data science has led me to explore the vast possibilities these fields offer. Armed with Python, I delve into the realms of predictive modeling, data analysis, and pattern recognition, uncovering valuable insights and driving informed decision-making.
 
 Projects and Contributions:
