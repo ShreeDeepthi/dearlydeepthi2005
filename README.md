@@ -1,5 +1,5 @@
       
-$\color{pink}{\textsf{Hey! Nice to see you.}}$	
+Hey! Nice to see you.
 
 ![Static Badge](https://img.shields.io/badge/Python-pink)
 ![Static Badge](https://img.shields.io/badge/Data%20Analytics-pink)
