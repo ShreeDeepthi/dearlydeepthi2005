@@ -16,7 +16,11 @@ Hey! Nice to see you.
 ![Static Badge](https://img.shields.io/badge/Cloud-pink)
 ![Static Badge](https://img.shields.io/badge/Canva-pink)
 ![Static Badge](https://img.shields.io/badge/AI&ML-pink)
-![Static Badge](https://img.shields.io/badge/DS-pink)
+![Static Badge](https://img.shields.io/badge/DataScience-pink)
+![Static Badge](https://img.shields.io/badge/CrowdFunding-pink)
+![Static Badge](https://img.shields.io/badge/UI-pink)
+![Static Badge](https://img.shields.io/badge/Author-pink)
+
 
 Greetings and welcome to my GitHub profile! I'm delighted to have you here. As someone deeply immersed in the world of technology, I find immense joy and satisfaction in exploring the frontiers of front-end development, data analytics, and various other facets of computing. Allow me to take you on a detailed tour of my journey and the projects I've undertaken.
 
