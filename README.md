@@ -8,6 +8,8 @@ Hey! Nice to see you.
 ![Static Badge](https://img.shields.io/badge/CSS-violet)
 ![Static Badge](https://img.shields.io/badge/JavaScript-lightblue)
 ![Static Badge](https://img.shields.io/badge/C++-darkgreen)
+
+
 ![Static Badge](https://img.shields.io/badge/Freelancing-purple)
 ![Static Badge](https://img.shields.io/badge/SQL-black)
 ![Static Badge](https://img.shields.io/badge/DP900-orange)
