@@ -12,9 +12,9 @@ Hey! Nice to see you.
 ![Static Badge](https://img.shields.io/badge/SQL-pink)
 ![Static Badge](https://img.shields.io/badge/DP900-pink)
 ![Static Badge](https://img.shields.io/badge/DigitalMarketing-pink)
-![Static Badge](https://img.shields.io/badge/WordPress-pink)
-![Static Badge](https://img.shields.io/badge/PowerBI-pink)
-![Static Badge](https://img.shields.io/badge/Tableau-pink)
+![Static Badge](https://img.shields.io/badge/Figma-pink)
+![Static Badge](https://img.shields.io/badge/Cloud-pink)
+![Static Badge](https://img.shields.io/badge/Canva-pink)
 ![Static Badge](https://img.shields.io/badge/AI&ML-pink)
 ![Static Badge](https://img.shields.io/badge/DS-pink)
 
